@@ -35,6 +35,6 @@ fail(): Fuerza que el test termine con fallo. Se puede indicar un mensaje.
 
 # Ejemplo:
 
-
 En ejemplo basa en a las operaciones básicas de una calculadora, la cual cada operación está definida en una función o método, al los cuales se les aplica los test Junit. 
+
 ![Image](https://github.com/BrunoBeltreGuzman/TestJUnit-Java/blob/master/Screenshots.png)
