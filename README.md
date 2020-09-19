@@ -1,5 +1,4 @@
 # TestJUnit-Java
-
 Test o pruebas unitarias Junit en Java su implementación y como funciona 
 
 Las pruebas unitarias o en este caso test Junit son un conjunto de técnicas para comprobar que un fragmento de código funciona correctamente. Es un procedimiento más de los que se llevan a cabo dentro de una metodología ágil del desarrollo de software.
@@ -35,5 +34,6 @@ assertSame/assertNotSame(object1, object2): Comprueba si dos objetos son iguales
 fail(): Fuerza que el test termine con fallo. Se puede indicar un mensaje.
 
 # Ejemplo:
+
 En ejemplo basa en a las operaciones básicas de una calculadora, la cual cada operación está definida en una función o método, al los cuales se les aplica los test Junit. 
 ![Image](https://github.com/BrunoBeltreGuzman/TestJUnit-Java/blob/master/Screenshots.png)
