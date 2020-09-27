@@ -29,7 +29,7 @@ assertEquals/assertNotEquals (valor esperado, valor obtenido). Es importante el 
 
 assertNull/assertNotNull (object): Comprueba que el objeto obtenido es nulo o no.
 
-assertSame/assertNotSame(object1, object2): Comprueba si dos objetos son iguales o no.
+assertSame/assertNotSame(object1, object2): Comprueba si dos objetos son iguales o no. 
 
 fail(): Fuerza que el test termine con fallo. Se puede indicar un mensaje.
 
